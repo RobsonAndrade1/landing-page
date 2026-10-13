@@ -55,13 +55,15 @@ landing-page/
 ├── package.json
 ├── tailwind.config.js
 └── vite.config.ts
+```
 
 ---
 
 ## 🚀 How to Run Locally
 
+```markdown
 1. Clone the repository:
-git clone [https://github.com/RobsonAndrade1/landing-page.git](https://github.com/RobsonAndrade1/landing-page.git)
+git clone https://github.com/RobsonAndrade1/landing-page.git
 
 2. Navigate to the project directory:
 cd landing-page
