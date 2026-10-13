@@ -56,8 +56,9 @@ landing-page/
 ├── tailwind.config.js
 └── vite.config.ts
 
-🚀 How to Run Locally
-git clone [https://github.com/RobsonAndrade1/landing-page.git](https://github.com/RobsonAndrade1/landing-page.git)
+---
+
+## 🚀 How to Run Locally
 
 1. Clone the repository:
 git clone [https://github.com/RobsonAndrade1/landing-page.git](https://github.com/RobsonAndrade1/landing-page.git)
@@ -71,5 +72,8 @@ npm install
 4. Run the development server:
 npm run dev
 
-📄 License
+---
+
+## 📄 License
+
 This project is open-source and available under the MIT License.
